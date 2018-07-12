@@ -3,5 +3,4 @@ function searchArray(query) {
         return el.toLowerCase().indexOf(query.toLowerCase()) > -1;
     })
 }
-
 console.log(searchArray('abdul'));

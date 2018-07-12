@@ -13,3 +13,12 @@ const namesz = [
     22,
     "Mr. Hakim"
 ];
+
+function filteringString(array) {
+    array.forEach(function (element) {
+        if (typeof element === 'string') {
+            console.log(element);
+        }
+    })
+}
+console.log(filteringString(namesz));

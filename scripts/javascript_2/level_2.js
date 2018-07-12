@@ -1,6 +1,7 @@
 names.forEach(function (element) {
-    while (names.filter(word => word.indexOf('Mr.') > -1)) {
-        console.log(element += " (male)");
-
+    if (element.charAt(2) === 's') {
+        console.log(element + " (female)");
+    } else {
+        console.log(element + " (male)");
     }
 })
