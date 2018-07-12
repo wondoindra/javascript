@@ -13,6 +13,11 @@
 - [Level 10](./scripts/javascript_1/level_10.js)
 - [Level 11](./scripts/javascript_1/level_11.js)
 - [Level 13](./scripts/javascript_1/level_13.js)
+- [Level 14](./scripts/javascript_1/level_14_15_16.js)
+- [Level 15](./scripts/javascript_1/level_14_15_16.js)
+- [Level 16](./scripts/javascript_1/level_14_15_16.js)
+- [Level 18](./scripts/javascript_1/level_18_19.js)
+- [Level 19](./scripts/javascript_1/level_18_19.js)
 
 #Javascript 2
 - [Level 0](./scripts/javascript_2/level_0.js)
